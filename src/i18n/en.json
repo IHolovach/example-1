@@ -1,0 +1,13 @@
+{
+  "login.title": "Login",
+  "navlink.home": "Home",
+  "navlink.aboutUs": "About Us",
+  "navlink.conditions": "Condition of Use",
+  "header.logout": "Logout",
+  "header.changePassword": "Change Password",
+  "policies.title": "Policies",
+  "list.filter.title": "Sort by:",
+  "list.filter.byName": "Name",
+  "list.filter.byDate": "Date Modified",
+  "list.viewFilter.title": "View:"
+}
